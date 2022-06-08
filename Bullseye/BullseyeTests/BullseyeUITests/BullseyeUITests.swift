@@ -2,7 +2,7 @@
 //  BullseyeUITests.swift
 //  BullseyeUITests
 //
-//  Created by Alina Costache on 06.06.2022.
+//  Created by Alina Costache on 6/6/22.
 //
 
 import XCTest
@@ -27,7 +27,6 @@ class BullseyeUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
 

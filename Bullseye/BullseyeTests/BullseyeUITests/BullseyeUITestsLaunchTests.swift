@@ -2,7 +2,7 @@
 //  BullseyeUITestsLaunchTests.swift
 //  BullseyeUITests
 //
-//  Created by Alina Costache on 06.06.2022.
+//  Created by Alina Costache on 6/6/22.
 //
 
 import XCTest
